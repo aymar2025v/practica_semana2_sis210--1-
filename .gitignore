@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.o
+benchmark
+benchmark_test
+data/Online Retail.xlsx
+*.xlsx
+resultados_crudos*.csv
+resumen_estadistico.csv
+*.png
